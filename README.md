@@ -23,13 +23,7 @@
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
 - Live Site URL: [Add live site URL here]()
 
-## My process
-
-### Built with
-
-
 ### What I learned
-
 learned many ways of centering the child element:
   - using margin
   - or using flexbox - best choice
@@ -48,11 +42,5 @@ Use this section to outline areas that you want to continue focusing on in futur
 ## Author
 
 - Website - [Mahmoud Mohie](https://www.your-site.com)
-- Frontend Mentor - [@mahmoudmohie2](https://www.frontendmentor.io/profile/mahmoudmohie2)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
-
-## Acknowledgments
-
-This is where you can give a hat tip to anyone who helped you out on this project. Perhaps you worked in a team or got some inspiration from someone else's solution. This is the perfect place to give them some credit.
-
-**Note: Delete this note and edit this section's content as necessary. If you completed this challenge by yourself, feel free to delete this section entirely.**
+- Frontend Mentor - [@mahmoudmohie2](https://www.frontendmentor.io/profile/mahmood-mohie)
+- Twitter - [@yourusername](https://twitter.com/mahmoud_coder)
